@@ -1,18 +1,14 @@
 {
-  "name": "Aioria",
-  "age": 20,
-  "photo": "https://res.cloudinary.com/dyijriyga/image/upload/v1565490518/bronze/cdz%20ouro/343_yeeicg.jpg",
-  "height": 1.85,
-  "weight": 85,
-  "date_born": "16 de Agosto",
-  "sign": "Leão",
-  "group_blood": "O",
+  "name": "Saga",
+  "age": 28,
+  "photo": "https://res.cloudinary.com/dyijriyga/image/upload/v1565490336/bronze/cdz%20ouro/1082_oxi4kn.jpg",
+  "height": 1.88,
+  "weight": 87,
+  "date_born": "30 de Maio",
+  "sign": "Gêmeos",
+  "group_blood": "AB",
   "place_born": "Grécia",
-  "place_train": "Santuário (Grécia)",
-  "warrior": "Armadura de Ouro de Leão",
-  "combat_techniques": [
-    "Cápsula do Poder",
-    "Pata do Leão",
-    "Relâmpago de Plasma"
-  ]
+  "place_train": "Santuário, Grécia",
+  "warrior": "Armadura de Ouro de Gêmeos",
+  "combat_techniques": ["Satã Imperial", "Outra Dimensão", "Explosão Galáctica"]
 }
