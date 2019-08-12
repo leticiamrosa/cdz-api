@@ -46,7 +46,11 @@ const CavaleiroSchema = new Schema(
       type: String,
       required: true
     },
-    combat_techniques: []
+    combat_techniques: [],
+    create_at: {
+      type: Date,
+      default: Date.now
+    }
   },
   {
     timestamps: true
